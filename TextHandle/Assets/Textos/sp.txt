@@ -1,0 +1,8 @@
+LA MÁQUINA DE ESCRIBIR
+Usuario
+Nombre de usuario
+Contraseña
+Introduce tu Contraseña
+Conectar
+Opciones
+Salir

@@ -1,0 +1,8 @@
+LA MACHINE A ECRIRE
+Utilisateur
+Nom d'utilisateur
+Mot de passe
+Entrez votre mot de passe
+Connecter
+Les options
+sortir

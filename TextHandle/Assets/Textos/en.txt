@@ -1,0 +1,8 @@
+THE TYPEWRITER
+Username
+Your username
+Password
+Your password
+Login
+Option
+Exit

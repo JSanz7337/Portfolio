@@ -1,0 +1,36 @@
+:1
+LA MÁQUINA DE ESCRIBIR
+Usuario
+Nombre de usuario
+Contraseña
+Introduce tu Contraseña
+Conectar
+Opciones
+Salir
+:2
+THE TYPEWRITER
+Username
+Your username
+Password
+Your password
+Login
+Option
+Exit
+:3
+LA MACHINE A ECRIRE
+Utilisateur
+Nom d'utilisateur
+Mot de passe
+Entrez votre mot de passe
+Connecter
+Les options
+sortir
+:4
+DIE SCHREIBMASCHINE
+Benutzer
+Benutzername
+Passwort
+Geben Sie Ihr Passwort ein
+Verbinden
+Optionen
+Ausfahrt
